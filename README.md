@@ -32,4 +32,4 @@
 
 ---
 
-⭐️ From [Lem000nte](https://github.com/Lem000nte)
+⭐️ И это тоже навайбкожено(частично)
