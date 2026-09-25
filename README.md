@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lem000nte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lem000nte)
 [![Telegram](https://img.shields.io/badge/Telegram-@Lem000nte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lem000nte)
+[![Telegram](https://img.shields.io/badge/Telegram-@Lem000nte-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kyviw)
 ## 🛠 Технологии
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
